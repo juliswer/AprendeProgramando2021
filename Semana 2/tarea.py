@@ -1,4 +1,4 @@
-variable1 = 1
+variable1 = 1;
 variable2 = 2
 print(variable1 + 1)
 print(variable2 + 2)
