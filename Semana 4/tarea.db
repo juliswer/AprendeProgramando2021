@@ -1,0 +1,3 @@
+SELECT capital, name, population FROM world WHERE continent = 'South America'
+
+SELECT continent, SUM(population) FROM world GROUP BY continent
